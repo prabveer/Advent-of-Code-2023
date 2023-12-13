@@ -1,0 +1,1 @@
+file = open("C:\\Users\pprab\Advent-of-Code-2023\Day 5\Puzzle.txt", "r")
